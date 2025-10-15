@@ -1,1 +1,3 @@
 added code to first line
+code added to the second line
+Code added to the third line
